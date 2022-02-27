@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Wordle Sol</string>
+    <string name="help">Help</string>
+    <string name="refresh">Refresh</string>
+
+    <string name="about">About</string>
+
+</resources>

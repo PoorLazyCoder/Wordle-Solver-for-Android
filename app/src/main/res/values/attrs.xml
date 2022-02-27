@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="scrollView_style"  format="reference" />
+
+    <attr name="key_normal_bgcolor"  format="reference" />
+    <attr name="key_pressed_bgcolor"  format="reference" />
+    <attr name="sq_bg_color"  format="reference" />
+    <attr name="sq_border_color"  format="reference" />
+
+</resources>

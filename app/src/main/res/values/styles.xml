@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <style name="Main_Theme" parent="android:Theme.Material"   >
+    <item name="android:textStyle">bold</item>
+  </style>
+
+
+
+  <style name="Blue_Theme" parent="Main_Theme"   >
+
+    <item name="scrollView_style">@style/blue_scrollView_style</item>
+    <item name="android:actionBarStyle">@style/blue_actionbar_style</item>
+    <item name="key_normal_bgcolor">@color/blue_key_normal</item>
+    <item name="key_pressed_bgcolor">@color/blue_key_pressed</item>
+    <item name="sq_bg_color">@color/blue_sq_bg</item>
+    <item name="sq_border_color">@color/blue_sq_border</item>
+  </style>
+
+
+
+  <style name="Red_Theme" parent="Main_Theme"   >
+
+    <item name="scrollView_style">@style/red_scrollView_style</item>
+    <item name="android:actionBarStyle">@style/red_actionbar_style</item>
+    <item name="key_normal_bgcolor">@color/red_key_normal</item>
+    <item name="key_pressed_bgcolor">@color/red_key_pressed</item>
+    <item name="sq_bg_color">@color/red_sq_bg</item>
+    <item name="sq_border_color">@color/red_sq_border</item>
+  </style>
+
+
+
+  <style name="Black_Theme" parent="Main_Theme"  >
+
+    <item name="scrollView_style">@style/black_scrollView_style</item>
+    <item name="android:actionBarStyle">@style/black_actionbar_style</item>
+    <item name="key_normal_bgcolor">@color/black_key_normal</item>
+    <item name="key_pressed_bgcolor">@color/black_key_pressed</item>
+    <item name="sq_bg_color">@color/black_sq_bg</item>
+    <item name="sq_border_color">@color/black_sq_border</item>
+  </style>
+
+
+  <style name="Orange_Theme" parent="Main_Theme"  >
+
+    <item name="scrollView_style">@style/orange_scrollView_style</item>
+    <item name="android:actionBarStyle">@style/orange_actionbar_style</item>
+    <item name="key_normal_bgcolor">@color/orange_key_normal</item>
+    <item name="key_pressed_bgcolor">@color/orange_key_pressed</item>
+    <item name="sq_bg_color">@color/orange_sq_bg</item>
+    <item name="sq_border_color">@color/orange_sq_border</item>
+  </style>
+
+
+  <style name="Cyan_Theme" parent="Main_Theme"  >
+
+    <item name="scrollView_style">@style/cyan_scrollView_style</item>
+    <item name="android:actionBarStyle">@style/cyan_actionbar_style</item>
+    <item name="key_normal_bgcolor">@color/cyan_key_normal</item>
+    <item name="key_pressed_bgcolor">@color/cyan_key_pressed</item>
+    <item name="sq_bg_color">@color/cyan_sq_bg</item>
+    <item name="sq_border_color">@color/cyan_sq_border</item>
+  </style>
+
+
+  <style name="Purple_Theme" parent="Main_Theme"  >
+
+    <item name="scrollView_style">@style/purple_scrollView_style</item>
+    <item name="android:actionBarStyle">@style/purple_actionbar_style</item>
+    <item name="key_normal_bgcolor">@color/purple_key_normal</item>
+    <item name="key_pressed_bgcolor">@color/purple_key_pressed</item>
+    <item name="sq_bg_color">@color/purple_sq_bg</item>
+    <item name="sq_border_color">@color/purple_sq_border</item>
+  </style>
+
+
+  <style name="Brown_Theme" parent="Main_Theme"  >
+
+    <item name="scrollView_style">@style/brown_scrollView_style</item>
+    <item name="android:actionBarStyle">@style/brown_actionbar_style</item>
+    <item name="key_normal_bgcolor">@color/brown_key_normal</item>
+    <item name="key_pressed_bgcolor">@color/brown_key_pressed</item>
+    <item name="sq_bg_color">@color/brown_sq_bg</item>
+    <item name="sq_border_color">@color/brown_sq_border</item>
+  </style>
+
+
+  <style name="Green_Theme" parent="Main_Theme"  >
+
+    <item name="scrollView_style">@style/green_scrollView_style</item>
+    <item name="android:actionBarStyle">@style/green_actionbar_style</item>
+    <item name="key_normal_bgcolor">@color/green_key_normal</item>
+    <item name="key_pressed_bgcolor">@color/green_key_pressed</item>
+    <item name="sq_bg_color">@color/green_sq_bg</item>
+    <item name="sq_border_color">@color/green_sq_border</item>
+  </style>
+
+
+
+  <style name="blue_scrollView_style" parent="Blue_Theme"  >
+    <item name="android:background">@color/blue_background</item>
+  </style>
+
+
+  <style name="blue_actionbar_style" parent="Blue_Theme"  >
+    <item name="android:background">@color/blue_action_bar</item>
+  </style>
+
+
+  <style name="red_scrollView_style" parent="Red_Theme"  >
+    <item name="android:background">@color/red_background</item>
+  </style>
+
+
+  <style name="red_actionbar_style" parent="Red_Theme"  >
+    <item name="android:background">@color/red_action_bar</item>
+  </style>
+
+
+
+  <style name="black_scrollView_style" parent="Black_Theme"  >
+    <item name="android:background">@color/black_background</item>
+  </style>
+
+
+  <style name="black_actionbar_style" parent="Black_Theme"  >
+    <item name="android:background">@color/black_action_bar</item>
+  </style>
+
+
+
+  <style name="orange_scrollView_style" parent="Orange_Theme"  >
+    <item name="android:background">@color/orange_background</item>
+  </style>
+
+
+  <style name="orange_actionbar_style" parent="Orange_Theme"  >
+    <item name="android:background">@color/orange_action_bar</item>
+  </style>
+
+  <style name="cyan_scrollView_style" parent="Cyan_Theme"  >
+    <item name="android:background">@color/cyan_background</item>
+  </style>
+
+
+  <style name="cyan_actionbar_style" parent="Cyan_Theme"  >
+    <item name="android:background">@color/cyan_action_bar</item>
+  </style>
+
+  <style name="purple_scrollView_style" parent="Purple_Theme"  >
+    <item name="android:background">@color/purple_background</item>
+  </style>
+
+
+  <style name="purple_actionbar_style" parent="Purple_Theme"  >
+    <item name="android:background">@color/purple_action_bar</item>
+  </style>
+
+  <style name="brown_scrollView_style" parent="Brown_Theme"  >
+    <item name="android:background">@color/brown_background</item>
+  </style>
+
+
+  <style name="brown_actionbar_style" parent="Brown_Theme"  >
+    <item name="android:background">@color/brown_action_bar</item>
+  </style>
+
+  <style name="green_scrollView_style" parent="Green_Theme"  >
+    <item name="android:background">@color/green_background</item>
+  </style>
+
+
+  <style name="green_actionbar_style" parent="Green_Theme"  >
+    <item name="android:background">@color/green_action_bar</item>
+  </style>
+
+
+</resources>

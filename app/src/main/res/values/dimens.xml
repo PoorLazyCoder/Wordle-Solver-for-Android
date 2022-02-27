@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="sq_width">45sp</dimen>
+
+    <dimen name="sq_paddingLeft">1dp</dimen>
+    <dimen name="sq_paddingTop">1dp</dimen>
+    <dimen name="sq_paddingRight">1dp</dimen>
+    <dimen name="sq_paddingBottom">1dp</dimen>
+    <dimen name="sq_marginLeft">3dp</dimen>
+    <dimen name="sq_layout_marginTop">3dp</dimen>
+    <dimen name="sq_textSize">30sp</dimen>
+
+
+</resources>

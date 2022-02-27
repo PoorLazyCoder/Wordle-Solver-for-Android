@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+	
+    <color name="white">#FFFFFFFF</color>
+	
+	
+	
+    <!-- - - - -  Blue theme  -->
+    <color name="blue_background">#242D48</color>
+    <color name="blue_action_bar">#2D3D72</color>
+    <color name="blue_key_normal">#0E152A</color>
+    <color name="blue_key_pressed">#40434C</color>
+    <color name="blue_sq_bg">#20105C</color>
+    <color name="blue_sq_border">#64548F</color>
+
+    <!-- - - - -  Red theme  -->
+    <color name="red_background">#9E1000</color>
+    <color name="red_action_bar">#DE1600</color>
+    <color name="red_key_normal">#781431</color>
+    <color name="red_key_pressed">#CC2353</color>
+    <color name="red_sq_bg">#ED4E2E</color>
+    <color name="red_sq_border">#EDAE25</color>
+
+
+    <!-- - - - -  Black theme  -->
+    <color name="black_background">#322C2C</color>
+    <color name="black_action_bar">#4A4245</color>
+    <color name="black_key_normal">#2E211C</color>
+    <color name="black_key_pressed">#70695D</color>
+    <color name="black_sq_bg">#4A494A</color>
+    <color name="black_sq_border">#151515</color>
+
+    <!-- - - - -  Orange theme  -->
+    <color name="orange_background">#F35B1F</color>
+    <color name="orange_action_bar">#F34712</color>
+    <color name="orange_key_normal">#9C2E1D</color>
+    <color name="orange_key_pressed">#B45344</color>
+    <color name="orange_sq_bg">#B44E16</color>
+    <color name="orange_sq_border">#FFE67F</color>
+
+
+    <!-- - - - -  Cyan theme  -->
+    <color name="cyan_background">#60E8FF</color>
+    <color name="cyan_action_bar">#5696A1</color>
+    <color name="cyan_key_normal">#1B555F</color>
+    <color name="cyan_key_pressed">#3E97A6</color>
+    <color name="cyan_sq_bg">#50C7C4</color>
+    <color name="cyan_sq_border">#4C4DC7</color>
+
+
+    <!-- - - - -  Purple theme  -->
+    <color name="purple_background">#A42EE5</color>
+    <color name="purple_action_bar">#8A3AB5</color>
+    <color name="purple_key_normal">#331643</color>
+    <color name="purple_key_pressed">#5C058C</color>
+    <color name="purple_sq_bg">#9D79B1</color>
+    <color name="purple_sq_border">#180E1D</color>
+
+
+    <!-- - - - -  Brown theme  -->
+    <color name="brown_background">#BD4D19</color>
+    <color name="brown_action_bar">#A14115</color>
+    <color name="brown_key_normal">#A14115</color>
+    <color name="brown_key_pressed">#A15D30</color>
+    <color name="brown_sq_bg">#A1433F</color>
+    <color name="brown_sq_border">#F73B3E</color>
+
+
+
+
+    <!-- - - - -  green theme  -->
+    <color name="green_background">#39B854</color>
+    <color name="green_action_bar">#319E49</color>
+    <color name="green_key_normal">#19470A</color>
+    <color name="green_key_pressed">#97BA8D</color>
+    <color name="green_sq_bg">#153B08</color>
+    <color name="green_sq_border">#338F14</color>
+
+
+
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/matchesTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Matches"
+        android:fontFamily="monospace"
+        android:textStyle="bold"
+        android:padding="10dp"
+        android:background="?attr/key_normal_bgcolor"
+
+        />
+
+    <Button
+        android:id="@+id/showAllMatchButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show All Matches" />
+
+    <Button
+        android:id="@+id/cancelButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cancel" />
+</LinearLayout>
