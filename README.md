@@ -22,3 +22,28 @@ Example : Yellow letters are OD, Green letters are DO, Grey letter are BUILRVEGY
 
 ![b3](https://user-images.githubusercontent.com/98500513/155892852-0632b885-c245-4cac-ace3-b72b61253f83.png)
 
+##
+Example : Yellow letters are LAR, Green letters are R, Grey letter are SMTCE, Then you filter out 14 wordS
+
+![c1](https://user-images.githubusercontent.com/98500513/155893431-57180ac4-e2d1-4806-a91f-2d4d9cb63077.png)
+
+![c2](https://user-images.githubusercontent.com/98500513/155893437-86528c78-e4b5-42c4-abdf-88661f79e8ed.png)
+
+![c3](https://user-images.githubusercontent.com/98500513/155893439-3f8830af-0c65-4260-ab2b-04f0e14063c6.png)
+
+##
+Example : Yellow letters are L, Green letters are OLES, Grey letter are TIMGC, Then you filter out 9 wordS
+
+
+![d1](https://user-images.githubusercontent.com/98500513/155893473-09933f67-2482-411e-b9f8-3e1210e16144.png)
+
+
+![d2](https://user-images.githubusercontent.com/98500513/155893474-ceb75725-2d0f-4c38-a749-ee8601fd1471.png)
+
+
+![d3](https://user-images.githubusercontent.com/98500513/155893475-ae88b839-210b-4690-bc87-b1938032b1ab.png)
+
+
+##
+This is the ONLINE demo https://koooe.github.io/wordle/
+
