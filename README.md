@@ -1,7 +1,5 @@
 # Wordle-Solver-for-Android
-Phone App for Wordle
-
-This app is based on  https://github.com/billthefarmer/gurgle
+Phone App for Wordle. This app is based on  https://github.com/billthefarmer/gurgle
 
 ##
 Example : Yellow letters are AA, Green letters are HNT, Grey letter are SORWEI, Then you filter out one word only
